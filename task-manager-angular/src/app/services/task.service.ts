@@ -28,4 +28,5 @@ export class TaskService {
       task.completed = true;
     }
   }
+
 }
